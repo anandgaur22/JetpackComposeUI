@@ -14,11 +14,14 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.JetpackComposeUI"
         tools:targetApi="31">
+
         <activity
             android:name=".XMLLayout"
             android:exported="false" />
+
+
         <activity
-            android:name=".BannerSlider"
+            android:name=".AnimationsCompose"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.JetpackComposeUI">
